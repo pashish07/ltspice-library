@@ -5,7 +5,7 @@ WINDOW 0 0 -56 Bottom 2
 WINDOW 3 0 56 Top 2
 SYMATTR Prefix X
 SYMATTR Value OPAx828
-SYMATTR ModelFile C:\Users\patankar\Downloads\Models\TINA simulations\OPA828\OPAx828.LIB
+SYMATTR ModelFile ..\Lib\OPAx828.LIB
 PIN -64 -16 LEFT 8
 PINATTR PinName IN+
 PINATTR SpiceOrder 1
