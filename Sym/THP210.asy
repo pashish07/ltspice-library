@@ -5,7 +5,7 @@ WINDOW 0 8 -72 Bottom 2
 WINDOW 3 8 72 Top 2
 SYMATTR Prefix X
 SYMATTR Value THP210
-SYMATTR ModelFile C:\Users\patankar\Downloads\Models\TINA simulations\THP210\THP210.LIB
+SYMATTR ModelFile  ..\Lib\THP210.LIB
 PIN -64 -32 LEFT 8
 PINATTR PinName In+
 PINATTR SpiceOrder 1
