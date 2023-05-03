@@ -5,7 +5,7 @@ WINDOW 0 0 -136 Bottom 2
 WINDOW 3 0 136 Top 2
 SYMATTR Prefix X
 SYMATTR Value TMUX8211
-SYMATTR ModelFile C:\Users\patankar\Downloads\scdm279\TMUX8211\TMUX8211.lib
+SYMATTR ModelFile ..\Lib\TMUX8211.lib
 PIN -80 -112 LEFT 8
 PINATTR PinName S1
 PINATTR SpiceOrder 1
